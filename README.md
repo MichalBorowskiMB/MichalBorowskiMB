@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michal Borowski
-- 👀 I’m interested in Music Mathematics, Film Making, Computer Science and Programming.
-- 🌱 I’m currently learning Two instruments: Piano and Guitar, Three programming languages: Python, Java and C++, and the film editing software Davinci Resolve.
+- 👀 I’m interested in Music, Mathematics, Film Making, Computer Science and Programming.
+- 🌱 I’m a professional social distancer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
